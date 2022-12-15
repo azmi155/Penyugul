@@ -1,2 +1,23 @@
 # Penyugul
-Penyugul Bajang
+# PATOK HARGA BERAS 50Kg
+
+
+
+
+| NAMA | STATUS|
+| ----- | ----------- |
+| ULUL AZMI | BELUM |
+| MIP | BELUM |
+| DEDI | BELUM |
+| YUBI | BELUM |
+| SUHER | BELUM |
+| T SEMAN | BELUM |
+| ZAINUL | BELUM |
+| SEKAR | BELUM |
+| T SAIRI | BELUM |
+| UDIN | BELUM |
+| RIZAL | BELUM |
+| OJIQ | BELUM |
+| ILHAM | BELUM |
+| TAKIM | BELUM |
+| HERMAN| BELUM |
