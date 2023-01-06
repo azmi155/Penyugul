@@ -16,8 +16,10 @@
 | SEKAR | BELUM |
 | T SAIRI | BELUM |
 | UDIN | BELUM |
-| RIZAL | BELUM |
-| OJIQ | BELUM |
-| ILHAM | BELUM |
 | TAKIM | BELUM |
 | HERMAN| BELUM |
+| OJIQ | BELUM |
+
+
+
+
